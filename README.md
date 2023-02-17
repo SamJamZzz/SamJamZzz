@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sam Julian</h1>
-<h3 align="center">A versatile full-stack developer from Vancouver, BC</h3>
+<h3 align="center">A versatile full-stack web developer from Vancouver, BC</h3>
 
 - 🔭 I’m currently working on [PokeStack](https://github.com/nicohsfu/pokestack)
 
