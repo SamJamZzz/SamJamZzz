@@ -16,7 +16,7 @@
 
 - 📄 Know about my experiences: [Resume](https://github.com/SamJamZzz/Resume/blob/main/Resume%20-%20Sam%20Julian%202023.pdf)
 
-- ⚡ Fun fact **I enjoy playing Dark Souls, even when I die a lot**
+- ⚡ Fun fact: **I enjoy playing Dark Souls, even when I die a lot**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
