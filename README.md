@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **samjulian6@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/SamJamZzz/Resume/blob/main/Resume%20-%20Sam%20Julian%202023.pdf](https://github.com/SamJamZzz/Resume/blob/main/Resume%20-%20Sam%20Julian%202023.pdf)
+- 📄 Know about my experiences: [Resume](https://github.com/SamJamZzz/Resume/blob/main/Resume%20-%20Sam%20Julian%202023.pdf)
 
 - ⚡ Fun fact **I enjoy playing Dark Souls, even when I die a lot**
 
